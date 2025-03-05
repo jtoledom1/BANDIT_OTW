@@ -13,3 +13,11 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
 bandit0
 ```
+
+A continuación abre el archivo readme 
+
+```
+cat readme
+```
+
+Por último copia la clave para usarla para pasar al siguiente nivel.
