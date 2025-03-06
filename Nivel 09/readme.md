@@ -6,4 +6,4 @@ Abre data.txt filtrando el contenido por contenido legible por el humano, despu�
 strings data.txt | grep ==
 ```
 
-Ahora copia la contraseña para acceder al siguiente nivel.
+Ahora copia la contraseña para acceder al siguiente nivel. 
