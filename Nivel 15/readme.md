@@ -8,6 +8,4 @@ openssl s_client -connect localhost:30001
 
 **Pega aquí la contraseña actual**
 
-
-
 Ahora copia la contraseña para acceder al siguiente nivel.
