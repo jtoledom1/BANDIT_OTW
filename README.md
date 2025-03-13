@@ -2,8 +2,6 @@
 
 Lista de comandos necesaria para pasar niveles de bandit.
 
-aaa
-
 
 ### Directorios útiles
 
