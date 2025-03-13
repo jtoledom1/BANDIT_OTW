@@ -1,2 +1,19 @@
 # BANDIT_OTW
-Comand list to pass bandit overthewire
+
+Lista de comandos necesaria para pasar niveles de bandit.
+
+
+
+### Directorios útiles
+
+```bash
+/etc/bandit_pass/
+```
+
+```bash
+/tmp
+```
+
+```bash
+/dev/null
+```
